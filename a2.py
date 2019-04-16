@@ -1,8 +1,3 @@
-'''
-COMP9321 2019 Term 1 Assignment Two Code Template
-Student Name: Rong Jiang
-Student ID: z5151899
-'''
 import requests, json
 import sqlite3
 import  uuid
